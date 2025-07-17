@@ -1,0 +1,14 @@
+scoreboard:
+  title: "§l§bNether§eScoreboard"
+  lines:
+    - "§aPlayer: §f{name}"
+    - "§aMoney: §6{money}"
+    - "§aOnline: §e{online}/{max_online}"
+    - "§aPing: §d{ping}"
+    - "§7----------------"
+update-interval: 20
+purse-format: abbreviated # 'normal', 'abbreviated', or 'mixed' (mixed = normal up to 100 million, abbreviated above)
+
+# Some variables you can also use:
+#   {server_ip}
+#   {server_port}

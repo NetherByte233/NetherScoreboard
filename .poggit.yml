@@ -1,0 +1,13 @@
+branches:
+- master
+
+projects:
+  NetherScoreboard:
+    path: src/NetherByte/NetherScoreboard/ScoreboardPlugin.php
+    type: plugin
+    name: NetherScoreboard
+    version: 1.0.0
+    api: [5.0.0]
+    author: NetherByte
+    description: Customizable scoreboard plugin for PocketMine-MP 
+    icon: Icon.jpg

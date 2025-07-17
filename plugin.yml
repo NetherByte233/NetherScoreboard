@@ -1,0 +1,6 @@
+name: NetherScoreboard
+main: NetherByte\NetherScoreboard\ScoreboardPlugin
+version: 1.0.0
+api: [5.0.0]
+author: NetherByte
+description: Customizable scoreboard plugin 
