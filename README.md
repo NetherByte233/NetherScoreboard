@@ -13,6 +13,11 @@ A simple, customizable scoreboard plugin for PocketMine-MP.
 2. Start your server. The plugin will generate a default `config.yml` in `plugins/NetherScoreboard/resources/`.
 3. Edit `config.yml` to customize the scoreboard.
 
+## Screenshot
+<p align="center">
+  <img src="https://github.com/NetherByte233/images/blob/main/FullScreen.jpg?raw=true" width="80%" />
+</p>
+
 ## Configuration
 Example `config.yml`:
 ```yaml
